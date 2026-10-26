@@ -1,0 +1,4 @@
+enmcine-addon/
+├── manifest.json
+├── enmcine.js
+└── logo.png
